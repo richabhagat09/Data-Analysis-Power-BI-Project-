@@ -57,4 +57,6 @@ SWITCH(
 •	Q7: Which brands offer maximum discounts but low ratings?
 •	Q8: What’s the distribution of products across rating buckets?
 
+## 6. Dashboard
 
+<a href = "https://github.com/richabhagat09/Data-Analysis-Power-BI-Project-/commit/7b248104fcf5742fd9ddacc3a0d80a8fc66da88b"> View dashboard </a>
